@@ -1,0 +1,12 @@
+body{
+    background-image:url("mabs.jpg");
+    background-position: fixed;
+    background-size: cover;
+}
+h1,h2{
+    text-decoration: wavy;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+#one{
+font-size: 25px;
+}
